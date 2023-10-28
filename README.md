@@ -2,3 +2,4 @@
 
 ## step 1 
 Set the canvas size and the background color. Also target the three huge roots center for later drawing.
+Added a leave
