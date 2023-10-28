@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 let numDots = 700; 
-=======
-let numDots = 1000; 
->>>>>>> 3f96f069326b08cdfb1b1555241396836d73380a
 
 function setup() {
   createCanvas(300, 600);
@@ -84,7 +81,7 @@ function draw() {
     noStroke();
     ellipse(x, y, size);
   }
-<<<<<<< HEAD
+
   drawLeaveCurve()
 }
 
@@ -124,7 +121,6 @@ function drawLeaveCurve(){
     curveVertex(35 + i * 19, 180 + i * 7);
     endShape();
   }
-=======
->>>>>>> 3f96f069326b08cdfb1b1555241396836d73380a
+
 }
 
